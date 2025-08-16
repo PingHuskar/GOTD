@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "Samyan Mitrtown"]
+[Date "2025.08.16"]
+[Round "1"]
+[White "?"]
+[Black "Chadin"]
+[Result "0-1"]
+[Orientation "black"]
+
+{[%eval +0.36] } 1. b4?! {[%eval -0.21] } e5 {[%eval -0.25] } 2. Bb2 {[%eval -0.29] } Bxb4 {[%eval -0.31] } 3. Bxe5 {[%eval -0.29] } f6?! {[%eval +0.38] } 4. Bc3 $146 {[%eval +0.30] } a5 {[%eval +0.36] } 5. e3 {[%eval +0.32] } Nh6 {[%eval +0.67] } 6. Bc4 {[%eval +0.30] } Qe7 {[%eval +0.80] } 7. Ne2 {[%eval +0.31] } d6?! {[%eval +1.08] } 8. Nf4 {[%eval +1.02] } c6 {[%eval +0.97] } 9. Qh5+ {[%eval +0.47] } Nf7?! {[%eval +1.11] } 10. Ng6 {[%eval +1.24] } hxg6 {[%eval +1.37] } 11. Bxf7+ {[%eval +1.39] } Kxf7 {[%eval +1.40] } 12. Qxh8 {[%eval +1.31] } Bf5?! {[%eval +2.00] } 13. h4?! {[%eval +1.08] } Bxc2 {[%eval +1.15] } 14. g4?? {[%eval -4.75] } Qe4 {[%eval -1.15] } 15. Rg1? {[%eval #-6] } Qf3!? {[%eval -6.33] } *

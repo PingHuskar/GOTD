@@ -1,0 +1,10 @@
+[Event "Unisus Monthly FIDE Rated Standard"]
+[Site "Sociefee x Chouxstory"]
+[Date "2025.08.24"]
+[Round "5"]
+[White "Aung, Kaung Myat C"]
+[Black "Boonin, Possawee"]
+[Result "0-1"]
+[Orientation "white"]
+
+{[%eval +0.16] } 1. e4 {[%eval +0.20] } c5 {[%eval +0.18] } 2. Nf3 {[%eval +0.51] } Nc6 {[%eval +0.41] } 3. d4 {[%eval +0.30] } cxd4 {[%eval +0.31] } 4. Nxd4 {[%eval +0.33] } e5 {[%eval +0.60] } 5. Nf3 $146 {[%eval +0.14] } Nf6 {[%eval 0.00] } 6. Nc3 {[%eval -0.04] } Bb4 {[%eval -0.33] } 7. Bg5 {[%eval -0.33] } Qa5 {[%eval -0.16] } 8. Bd2 {[%eval -0.18] } O-O {[%eval -0.15] } 9. a3 {[%eval -0.62] } Bxc3 {[%eval -1.41] } 10. Bxc3 {[%eval -0.55] } Qb6?! {[%eval +0.23] } 11. Bd3 {[%eval +0.22] } d6 {[%eval +0.22] } 12. h3 {[%eval +0.19] } Be6 {[%eval +0.24] } 13. Ng5 {[%eval +0.31] } d5? {[%eval +1.58] } 14. exd5! {[%eval +1.67] } Bxd5 {[%eval +1.16] } 15. O-O? {[%eval -0.90] } Rad8 {[%eval -0.18] } 16. Qe2 {[%eval -0.47] } Rfe8 {[%eval -0.17] } 17. Bc4?! {[%eval -1.03] } Nd4 {[%eval -0.65] } 18. Qd3?! {[%eval -1.23] } h6? {[%eval -0.10] } 19. Bxd5?! {[%eval -0.94] } Nxd5? {[%eval +0.51] } 20. Bxd4 {[%eval +0.47] } Qxd4 {[%eval +1.09] } 21. Qxd4?! {[%eval -0.14] } exd4! {[%eval -0.13] } 22. Nf3 {[%eval -0.23] } Nf4 {[%eval -0.15] } 23. Rfe1 {[%eval 0.00] } Kf8 {[%eval +0.07] } 24. Rad1 {[%eval +0.03] } f6 {[%eval +0.07] } 25. Kf1 {[%eval +0.15] } Rxe1+ {[%eval +0.01] } 26. Nxe1 {[%eval -0.01] } Ke7 {[%eval +0.20] } 27. Nd3 {[%eval -0.01] } Ne6 {[%eval 0.00] } 28. g3 {[%eval +0.25] } Ng5 {[%eval +0.22] } 29. h4 {[%eval +0.07] } Nf3 {[%eval +0.12] } 30. Kg2 {[%eval +0.16] } Ne5 {[%eval 0.00] } 31. Re1 {[%eval -0.12] } Kd6 {[%eval +0.04] } 32. Nxe5 {[%eval -0.09] } fxe5 {[%eval 0.00] } 33. f4 {[%eval 0.00] } Re8 {[%eval 0.00] } 34. Kf3 {[%eval 0.00] } Kd5 {[%eval 0.00] } 35. fxe5 {[%eval 0.00] } Rxe5 {[%eval -0.39] } 36. Rxe5+ {[%eval -0.18] } Kxe5 {[%eval -0.71] } 37. b4?? {[%eval -5.37] } b5?? {[%eval -0.18] } 38. g4?? {[%eval -12.02] } g6?! {[%eval -11.00] } *

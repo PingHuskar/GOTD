@@ -1,0 +1,11 @@
+[Event "Unisus The Street FIDE Rated in July 2025 U12"]
+[Site "The Street Ratchada"]
+[Date "2025.07.10"]
+[Round "last tie-break"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+[Orientation "black"]
+[Ref "https://youtu.be/TVSNXNM6XL0"]
+
+{[%eval +0.27] } 1. e4 {[%eval +0.43] } c5 {[%eval +0.49] } 2. Nf3 {[%eval +0.21] } e6 {[%eval +0.46] } 3. Nc3 {[%eval +0.26] } d6 $146 {[%eval +0.54] } 4. d4 {[%eval +0.53] } cxd4 {[%eval +0.53] } 5. Nxd4 {[%eval +0.62] } Nf6 {[%eval +0.65] } 6. Bg5 {[%eval +0.33] } Be7 {[%eval +0.40] } 7. Bb5+ {[%eval -0.14] } Bd7 {[%eval -0.04] } 8. O-O {[%eval -0.35] } e5?? {[%eval +3.81] } 9. Nf3?? {[%eval +0.54] } Bxb5 {[%eval +0.33] } 10. Nxb5 {[%eval +0.32] } Nc6? {[%eval +2.87] } 11. Qe2? {[%eval +0.22] } a6 {[%eval +1.01] } 12. Nc3 {[%eval +0.91] } h6 {[%eval +1.13] } 13. Bh4?! {[%eval +0.51] } Qb6? {[%eval +1.19] } 14. b3?? {[%eval +1.84] } Qb4?! {[%eval +0.41] } 15. Nd5 {[%eval +0.34] } Nxd5 {[%eval +0.28] } 16. exd5 {[%eval +0.60] } Nd4 {[%eval +0.54] } 17. Nxd4 {[%eval +0.70] } Qxd4 {[%eval +0.71] } 18. Bxe7 {[%eval +0.54] } Kxe7 {[%eval +0.84] } 19. Rad1 {[%eval +0.43] } Qb2? {[%eval +0.69] } 20. a4? {[%eval +0.04] } Rac8 {[%eval 0.00] } 21. Rc1 {[%eval +0.04] } Rc5 {[%eval +0.18] } 22. Rfd1?? {[%eval -2.34] } Rhc8! {[%eval -2.15] } 23. c4?? {[%eval -11.32] } Qxb3?? {[%eval -0.90] } 24. f4! {[%eval -1.32] } Rxc4 {[%eval -1.42] } 25. fxe5?? {[%eval -13.82] } Rxc1 {[%eval -8.76] } 26. Re1 {[%eval -14.96] } dxe5 {[%eval -10.87] } 27. Qxe5+ {[%eval -8.35] } Kf8 {[%eval -11.10] } 28. Qd6+ {[%eval -8.05] } Kg8 {[%eval -8.58] } 29. Rxc1 {[%eval #-3] } Qe3+ {[%eval #-1] } 30. Kf1 {[%eval #-1] } Rxc1# 0-1

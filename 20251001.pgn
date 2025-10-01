@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.10.01"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Orientation "white"]
+
+{[%eval +0.41] } 1. d4 {[%eval +0.19] } d5 {[%eval +0.13] } 2. c4 {[%eval +0.43] } c5 {[%eval +0.35] } 3. cxd5 {[%eval +0.61] } cxd4?! {[%eval +1.16] } 4. Qxd4 {[%eval +1.36] } Nf6 {[%eval +1.09] } 5. Nc3 {[%eval +1.31] } e6 {[%eval +2.86] } 6. e4 {[%eval +1.85] } Nc6 {[%eval +1.49] } 7. Qd1 {[%eval +1.80] } Nb4?! {[%eval +2.73] } 8. Bb5+?! {[%eval +2.65] } Bd7! {[%eval +2.11] } 9. Bc4? {[%eval +0.07] } Qe7? {[%eval +2.26] } 10. Be3? {[%eval -0.06] } a5?? {[%eval +2.01] } 11. a3 {[%eval +0.79] } Na6? {[%eval +2.99] } 12. Nf3 {[%eval +3.64] } g6?! {[%eval +5.50] } 13. O-O {[%eval +3.68] } Bg7 {[%eval +3.59] } 14. Bf4 {[%eval +4.08] } O-O-O? {[%eval +4.10] } 15. Qb3 {[%eval +6.53] } Qc5 {[%eval +14.87] } 16. Bxa6 {[%eval +15.60] } 1-0

@@ -1,0 +1,14 @@
+[Event "casual blitz game"]
+[Site "https://lichess.org/1gsPvxC7"]
+[Date "2025.11.03"]
+[Round "1"]
+[White "PingHuskar"]
+[Black "lunaaa"]
+[Result "0-1"]
+[WhiteElo "1478"]
+[BlackElo "2247"]
+[Orientation "white"]
+[TimeControl "300+0"]
+[Variant "Standard"]
+
+{[%eval +0.31] } 1. e4 {[%eval +0.24] } d5 {[%eval +0.70] } 2. exd5 {[%eval +0.65] } Nf6 {[%eval +0.65] B01 Scandinavian Defense: Modern Variation} 3. Nf3 {[%eval +0.62] } Qxd5 {[%eval +0.68] } 4. Nc3 {[%eval +0.68] } Qh5 $146 {[%eval +0.86] } 5. Be2 {[%eval +0.76] } Nc6? {[%eval +1.69] } 6. d4? {[%eval +0.03] } Bg4! {[%eval -0.38] } 7. h3 {[%eval -0.06] } O-O-O {[%eval +0.41] } 8. Bg5?? {[%eval -4.22] } Bxf3! {[%eval -4.58] } 9. Bxf6?! {[%eval -4.43] } Bxe2! {[%eval -4.56] } 10. Qxe2 {[%eval -5.26] } Qxe2+ {[%eval -4.59] White resigns.} 0-1

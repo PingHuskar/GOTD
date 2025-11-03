@@ -1,0 +1,14 @@
+[Event "casual blitz game"]
+[Site "https://lichess.org/B6bJkAhZ"]
+[Date "2025.11.03"]
+[Round "2"]
+[White "lunaaa"]
+[Black "PingHuskar"]
+[Result "1-0"]
+[WhiteElo "2247"]
+[BlackElo "1478"]
+[Orientation "white"]
+[TimeControl "300+0"]
+[Variant "Standard"]
+
+{[%eval +0.42] } 1. e4 {[%eval +0.36] } c6 {[%eval +0.51] } 2. d4 {[%eval +0.48] } d5 {[%eval +0.47] } 3. exd5 {[%eval +0.37] } cxd5 {[%eval +0.37] } 4. c4 {[%eval +0.38] B13 Caro-Kann Defense: Panov Attack} dxc4 $146 {[%eval +0.59] } 5. Nc3 {[%eval +0.45] } Nf6 {[%eval +0.56] } 6. Bxc4 {[%eval +0.47] } Bf5?! {[%eval +1.18] } 7. Nf3 {[%eval +0.53] } Nc6? {[%eval +3.23] } 8. d5 {[%eval +2.94] } Na5 {[%eval +3.12] } 9. Qa4+ {[%eval +2.64] } Bd7 {[%eval +1.94] } 10. Bb5 {[%eval +2.31] } e6? {[%eval +3.95] } 11. dxe6 {[%eval +3.45] } fxe6 {[%eval +4.07] } 12. Ne5? {[%eval +1.54] } Bd6? {[%eval +3.88] } 13. Nxd7 {[%eval +4.65] } Nxd7 {[%eval +3.93] } 14. Bxd7+ {[%eval +4.62] } Qxd7 {[%eval +3.87] } 15. Qxa5 {[%eval +4.62] } b6?! {[%eval +4.42] } 16. Qh5+ {[%eval +5.13] } g6 {[%eval +5.77] } 17. Qf3 {[%eval +5.45] } O-O-O {[%eval +6.98] } 18. Qa8+ {[%eval +6.48] } Bb8 {[%eval +7.54] } 19. Bf4 {[%eval +4.98] } e5 {[%eval +16.41] } 20. Bxe5 {[%eval +7.81] } Qd2+ {[%eval +11.10] } 21. Kf1 {[%eval +12.62] } Kd7 {[%eval +10.94] } 22. Rd1 {[%eval +8.71] } Qxd1+ {[%eval +8.74] } 23. Nxd1 {[%eval +9.20] } Bxe5 {[%eval +9.32] } 24. Qd5+ {[%eval +9.45] } Bd6 {[%eval +8.24] } 25. Ne3 {[%eval +7.82] } Rhf8 {[%eval +9.74] } 26. Ke2 {[%eval +6.93] } Kc7 {[%eval +8.34] } 27. Rc1+ {[%eval +7.70] } Bc5 {[%eval +7.81] } 28. Qe5+ {[%eval +7.94] } Kb7 {[%eval +8.27] } 29. b4 {[%eval +7.76] } Rde8?! {[%eval +15.95] } 30. Qd5+ {[%eval +20.35] } Ka6 {[%eval #7] } 31. bxc5 {[%eval +11.65] } Rd8 {[%eval +17.16] } 32. Qc4+ {[%eval #10] Black resigns.} 1-0

@@ -1,0 +1,11 @@
+[Event "Casual Game"]
+[Site "The Street Ratchada"]
+[Date "07/11/2025, 18:33:29"]
+[Round "1"]
+[White "6200354"]
+[Black "6204163"]
+[Result "1-0"]
+[Orientation "white"]
+[Variant "Standard"]
+
+{[%eval +0.41] } 1. e4 {[%eval +0.32] } c6 {[%eval +0.37] } 2. d4 {[%eval +0.45] } d5 {[%eval +0.46] } 3. Nc3 {[%eval +0.33] } dxe4 {[%eval +0.38] } 4. Nxe4 $146 {[%eval +0.29] } Bf5 {[%eval +0.35] } 5. Ng3 {[%eval +0.38] } Bg6 {[%eval +0.39] } 6. Nf3 {[%eval +0.42] } e6 {[%eval +0.48] } 7. Be2 {[%eval +0.13] } Bd6 {[%eval +0.47] } 8. O-O {[%eval +0.15] } Nd7 {[%eval +0.22] } 9. c4 {[%eval +0.06] } Ngf6 {[%eval +0.15] } 10. Bg5 {[%eval +0.11] } h6 {[%eval +0.16] } 11. Be3 {[%eval -0.01] } O-O {[%eval 0.00] } 12. a3 {[%eval -0.16] } b6 {[%eval +0.03] } 13. Qa4 {[%eval -0.20] } c5 {[%eval -0.18] } 14. Rfd1 {[%eval -0.30] } Qc7 {[%eval -0.13] } 15. b4 {[%eval -0.11] } Ne4? {[%eval +1.15] } 16. dxc5 {[%eval +1.00] } bxc5 {[%eval +1.20] } 17. Nxe4 {[%eval +1.19] } Bxe4 {[%eval +0.94] } 18. Rxd6? {[%eval -0.71] } Qxd6! {[%eval -0.61] } 19. Rd1 {[%eval -0.42] } Nb6?! {[%eval +0.49] } 20. Qb3 {[%eval +0.42] } Qc7 {[%eval +0.41] } 21. Bxc5 {[%eval +0.44] } Rfd8 {[%eval +0.56] } 22. Rc1 {[%eval +0.48] } Nd7?! {[%eval +1.17] } 23. Bd4 {[%eval +1.20] } Nf8 {[%eval +1.67] } 24. Qe3 {[%eval +1.41] } Bxf3? {[%eval +2.84] } 25. Bxf3! {[%eval +2.89] } Rac8 {[%eval +2.97] } 26. Bxa7 {[%eval +3.05] } Rd7 {[%eval +3.69] } 27. Bd4?! {[%eval +2.72] } Ng6 {[%eval +2.89] } 28. g3 {[%eval +2.83] } Ne7 {[%eval +2.87] } 29. Qe5? {[%eval +0.74] } Nf5 {[%eval +0.79] } 30. Qxc7 {[%eval +0.86] } Rdxc7 {[%eval +0.81] } 31. Bc5 {[%eval +0.68] } Rxc5!? {[%eval +0.68] } 32. bxc5 {[%eval +0.64] } Nd4 {[%eval +0.78] } 33. Kg2 {[%eval +0.47] } Rxc5 {[%eval +0.47] } 34. Rc3 {[%eval +0.18] } g6?! {[%eval +0.77] } 35. Bd1 {[%eval +0.33] } Kg7 {[%eval +0.60] } 36. a4 {[%eval +0.56] } Kf6 {[%eval +0.56] } 37. f3 {[%eval +0.37] } Ke5 {[%eval +0.35] } 38. Kf2 {[%eval +0.39] } Nf5 {[%eval +0.73] } 39. Be2?! {[%eval +0.11] } Kd4?! {[%eval +1.01] } 40. Rb3?! {[%eval +0.12] } Nd6?? {[%eval +5.03] } 41. Rd3+! {[%eval +5.29] } Ke5 {[%eval +5.58] } 42. f4+ {[%eval +5.58] } 1-0

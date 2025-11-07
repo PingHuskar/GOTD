@@ -1,0 +1,13 @@
+[Event "Live Chess"]
+[Site "Chess.com BTS Ari - Saladaeng"]
+[Date "2025.11.07"]
+[Round "1"]
+[White "anklebrah"]
+[Black "PingHuskar"]
+[Result "0-1"]
+[WhiteElo "1124"]
+[BlackElo "1470"]
+[Orientation "black"]
+[TimeControl "300+5"]
+
+{[%eval +0.27] } 1. e4 {[%eval +0.27] } c6 {[%eval +0.34] } 2. d4 {[%eval +0.23] } d5 {[%eval +0.25] } 3. e5 {[%eval +0.33] } c5 {[%eval +0.37] } 4. c3 {[%eval +0.26] } Nc6 $146 {[%eval +0.28] } 5. Nf3 {[%eval 0.00] } cxd4 {[%eval 0.00] } 6. cxd4 {[%eval 0.00] } Bg4 {[%eval 0.00] } 7. Be2 {[%eval -0.13] } e6 {[%eval -0.15] } 8. O-O {[%eval -0.14] } h6 {[%eval +0.36] } 9. Be3 {[%eval +0.28] } Nge7 {[%eval +0.31] } 10. Nbd2?! {[%eval -0.29] } Ng6? {[%eval +1.14] } 11. h3 {[%eval +1.02] } Bf5 {[%eval +1.48] } 12. Nb3?! {[%eval +0.66] } Bb4 {[%eval +0.96] } 13. Nh2 {[%eval +0.60] } Nge7 {[%eval +0.75] } 14. Rc1 {[%eval +0.67] } Ba5 {[%eval +0.81] } 15. Bb5?! {[%eval +0.26] } Bb6 {[%eval +0.33] } 16. Nf3 {[%eval +0.03] } a6 {[%eval +0.06] } 17. Bd3 {[%eval -0.21] } Bxd3 {[%eval -0.11] } 18. Qxd3 {[%eval -0.08] } Nf5 {[%eval +0.12] } 19. g4 {[%eval -0.24] } Nxe3 {[%eval -0.25] } 20. fxe3 {[%eval -0.26] } O-O {[%eval -0.29] } 21. Kh2 {[%eval -0.71] } Rc8 {[%eval -0.46] } 22. g5?! {[%eval -1.41] } hxg5! {[%eval -1.23] } 23. Nxg5?? {[%eval -5.16] } Qxg5! {[%eval -5.27] } 24. Rg1 {[%eval -5.04] } Qh6 {[%eval -4.58] } 25. Rg4 {[%eval -4.86] } Nb4 {[%eval -5.06] } 26. Rxc8?! {[%eval -7.11] } Nxd3 {[%eval -6.82] } 27. Rxf8+ {[%eval -7.57] } Kxf8 {[%eval -7.65] } 0-1

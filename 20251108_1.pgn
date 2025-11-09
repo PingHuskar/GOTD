@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "Gateway Ekamai"]
+[Date "2025.11.08"]
+[Round "?"]
+[White "Archawin"]
+[Black "chavarat"]
+[Result "1-0"]
+[Orientation "white"]
+
+{[%eval +0.40] } 1. d4 {[%eval +0.20] } Nf6 {[%eval +0.27] } 2. Nf3 $146 {[%eval +0.17] } d6 {[%eval +0.50] } 3. Nc3 {[%eval +0.31] } c6 {[%eval +0.58] } 4. Bf4 {[%eval +0.23] } g6 {[%eval +0.61] } 5. g3 {[%eval +0.26] } Bg7 {[%eval +0.04] } 6. Bg2 {[%eval +0.09] } O-O {[%eval +0.19] } 7. O-O {[%eval +0.12] } Bg4 {[%eval +0.15] } 8. d5?! {[%eval -0.33] } Bxf3?! {[%eval +0.27] } 9. Bxf3 {[%eval +0.23] } c5?! {[%eval +1.18] } 10. e4 {[%eval +0.89] } Re8 {[%eval +0.87] } 11. e5 {[%eval +0.84] } Nfd7? {[%eval +1.45] } 12. e6! {[%eval +2.44] } fxe6?! {[%eval +2.77] } 13. dxe6! {[%eval +2.95] } Nf6?! {[%eval +5.60] } 14. Bxb7! {[%eval +4.89] } Qc7 {[%eval +5.55] } 15. Bxa8 {[%eval +6.88] } Nc6 {[%eval +7.09] } 16. Bxc6 {[%eval +7.57] } Qxc6 {[%eval +5.57] } 17. Rb1 {[%eval +6.27] } h6 {[%eval +5.02] } 18. b4 {[%eval +4.96] } cxb4 {[%eval +5.21] } 19. Ne2 {[%eval +5.22] } a5 {[%eval +5.39] } 20. Nd4 {[%eval +4.74] } Qd5 {[%eval +4.88] } 21. Nb3 {[%eval +4.43] } Qxe6 {[%eval +4.74] } 22. Nxa5 {[%eval +5.12] } Qh3 {[%eval +5.63] } 23. Qf3 {[%eval +4.15] } Ng4 {[%eval +5.89] } 24. Qg2 {[%eval +5.97] } Qxg2+ {[%eval +6.21] } 25. Kxg2 {[%eval +4.87] } e5 {[%eval +5.49] } 26. Be3 {[%eval +7.27] } 1-0

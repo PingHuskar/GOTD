@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.15"]
+[Round "2"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Orientation "white"]
+
+{[%eval +0.31] } 1. e4 {[%eval +0.37] } e5 {[%eval +0.36] } 2. d4 $146N,?! {[%eval -0.20] } exd4 {[%eval -0.16] } 3. Nf3 {[%eval -0.16] } Nc6 {[%eval +0.03] } 4. Nxd4 {[%eval +0.11] } Bc5 {[%eval +0.29] } 5. Be3 {[%eval +0.23] } Nxd4 {[%eval +0.50] } 6. Bxd4 {[%eval +0.47] } Bxd4 {[%eval +0.49] } 7. Qxd4 {[%eval +0.57] } Nf6? {[%eval +2.19] } 8. Nc3 {[%eval +1.61] } O-O {[%eval +1.85] } 9. O-O-O {[%eval +1.79] } c6 {[%eval +2.34] } 10. e5 {[%eval +2.32] } Ne8 {[%eval +2.19] } 11. h4 {[%eval +2.22] } f6?! {[%eval +2.93] } 12. Bc4+ {[%eval +1.72] } Kh8 {[%eval +2.09] } 13. g4?? {[%eval -0.44] } fxe5! {[%eval -0.38] } 14. Qxe5 {[%eval -0.51] } d5 {[%eval -0.07] } 15. Bd3? {[%eval -1.63] } Qf6?! {[%eval -0.38] } 16. Qxf6 {[%eval -0.38] } Rxf6 {[%eval -0.82] } 17. Rdf1? {[%eval -2.25] } Bxg4! {[%eval -1.56] } 18. Ne2 {[%eval -2.36] } c5 {[%eval -2.09] } 19. c4? {[%eval -2.19] } d4? {[%eval -2.33] } 20. Ng3 {[%eval -2.31] } Bf3 {[%eval -1.94] } 21. Rh2?! {[%eval -2.71] } g6? {[%eval -1.41] } 22. Ne4 {[%eval -1.35] } Bxe4 {[%eval -1.30] } 23. Bxe4 {[%eval -1.37] } Nd6 {[%eval -1.61] } 24. Bd5 {[%eval -1.51] } Raf8 {[%eval -1.39] } 25. Kd2?! {[%eval -2.29] } b6 {[%eval -1.90] } 26. a3?! {[%eval -2.23] } Kg7 {[%eval -2.41] } 27. b4 {[%eval -2.78] } h5 {[%eval -2.27] } 28. Rg2 {[%eval -3.36] } Rf4 {[%eval -3.91] } 29. Re1 {[%eval -3.93] } Rxf2+ {[%eval -3.32] } 30. Rxf2 {[%eval -3.88] } Rxf2+ {[%eval -3.86] } 31. Kd3 {[%eval -3.64] } Nf5 {[%eval -3.67] } 32. a4 {[%eval -4.10] } Nxh4 {[%eval -3.37] } 33. Re7+ {[%eval -3.29] } Kh6 {[%eval -4.56] } 34. Rxa7 {[%eval -4.95] } cxb4? {[%eval -1.63] } 35. Kxd4 {[%eval -2.85] } b3 {[%eval -0.67] } 36. Rb7 {[%eval -1.92] } b2? {[%eval -0.13] } 37. Rxb6! {[%eval -0.08] } Nf5+ {[%eval -0.07] } 38. Kc3 {[%eval -0.21] } h4 {[%eval 0.00] } 39. Rxb2 {[%eval 0.00] } Rxb2 {[%eval +0.59] } 40. Kxb2 {[%eval 0.00] } h3 {[%eval 0.00] } 41. a5 {[%eval 0.00] } Nd6 {[%eval 0.00] } 42. a6 {[%eval +0.47] } h2?? {[%eval +9.41] } 43. Kb3 {[%eval +10.27] } *

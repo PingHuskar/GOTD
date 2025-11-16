@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[Orientation "white"]
+
+{[%eval +0.37] } 1. e4 {[%eval +0.42] } e6 {[%eval +0.45] } 2. d4 {[%eval +0.37] } d5 {[%eval +0.42] } 3. c4? {[%eval -0.71] } Nc6 $146N,?! {[%eval +0.32] } 4. exd5 {[%eval +0.40] } exd5 {[%eval 0.00] } 5. Nc3 {[%eval -0.11] } Bb4 {[%eval +0.10] } 6. Nf3 {[%eval -0.06] } Nf6 {[%eval -0.09] } 7. Qe2+?! {[%eval -0.77] } Be6 {[%eval -0.97] } 8. a3 {[%eval -1.19] } Ba5?? {[%eval +1.22] [%cal Gb2b4]} 9. Ng5?? {[%eval -1.80] } O-O?! {[%eval -0.88] } 10. Nxe6 {[%eval -0.42] } fxe6 {[%eval -0.29] } 11. Be3?! {[%eval -1.56] } Qd6?? {[%eval +0.73] } 12. b4 {[%eval +0.36] } g6? {[%eval +3.37] } 13. c5 {[%eval +2.40] } Rad8? {[%eval +10.29] } 14. cxd6! {[%eval +10.35] } cxd6 {[%eval +11.59] } 15. bxa5 {[%eval +13.23] } Nxa5 {[%eval +14.94] } 16. Qb5 {[%eval +6.47] } Rc8 {[%eval +7.27] } 17. Bd2!? {[%eval +6.83] } Ng4 {[%eval +15.47] } 18. Qxa5 {[%eval +13.83] } Rxf2 {[%eval +8.37] } 19. h3 {[%eval +7.65] } Rf4 {[%eval +8.41] } 20. Bxf4 {[%eval +9.62] } Rc4 {[%eval #6] } 21. Bxc4 {[%eval +22.16] } dxc4 {[%eval #8] } 22. hxg4 {[%eval #4] } *

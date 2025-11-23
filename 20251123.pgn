@@ -1,0 +1,10 @@
+[Event "?"]
+[Site "The Street Ratchada"]
+[Date "2025.11.23"]
+[Round "1"]
+[White ""]
+[Black "Lertdej123"]
+[Result "1/2-1/2"]
+[Orientation "white"]
+
+{[%eval +0.39] } 1. e4 {[%eval +0.33] } c5 {[%eval +0.33] } 2. c3 {[%eval +0.19] } Nc6 {[%eval +0.27] } 3. Nf3 {[%eval +0.18] } d6?! {[%eval +0.76] } 4. Bc4?! {[%eval +0.07] } e6 $146 {[%eval +0.21] } 5. O-O {[%eval +0.12] } Nf6 {[%eval +0.13] } 6. Re1?! {[%eval -0.58] } Be7?! {[%eval +0.38] } 7. d4 {[%eval +0.19] } cxd4 {[%eval +0.27] } 8. cxd4 {[%eval +0.27] } O-O {[%eval +0.71] } 9. Bd2? {[%eval -0.56] } Qb6?! {[%eval +0.19] } 10. Bc3 {[%eval -0.32] } Re8? {[%eval +0.92] } 11. Na3? {[%eval -0.24] } d5 {[%eval -0.19] } 12. exd5 {[%eval -0.25] } exd5 {[%eval -0.22] } 13. Bb3 {[%eval -0.23] } Bg4 {[%eval -0.22] } 14. Nc2 {[%eval -0.27] } Rad8 {[%eval -0.21] } 15. h3 {[%eval -0.33] } Bf5 {[%eval +0.06] } 16. Ne3 {[%eval +0.07] } Be4 {[%eval +0.20] } 17. Ne5 {[%eval +0.14] } Bg6 {[%eval +0.51] } 18. Nxg6 {[%eval +0.34] } fxg6?! {[%eval +1.18] } 19. Ng4 {[%eval +0.91] } Kh8 {[%eval +0.87] } 20. Qf3?! {[%eval +0.05] } Nxd4 {[%eval +0.08] } 21. Bxd4 {[%eval +0.20] } Qxd4 {[%eval +0.16] } 22. Nxf6 {[%eval -0.01] } Bxf6 {[%eval 0.00] } 23. Rxe8+ {[%eval 0.00] } Rxe8 {[%eval +0.07] } 24. Qxd5 {[%eval -0.04] } Qxb2 {[%eval +0.07] } 25. Rd1 {[%eval +0.13] } h5?? {[%eval +2.96] } 26. Qf7! {[%eval +2.66] } Rb8? {[%eval +6.26] } 27. Qxg6! {[%eval +6.03] } Qe5 {[%eval +6.10] } 28. Rd5?? {[%eval 0.00] } Qe1+! {[%eval 0.00] } 29. Kh2 {[%eval 0.00] } Be5+ {[%eval 0.00] } 30. g3?? {[%eval -10.04] } Qxf2+! {[%eval -31.78] } 31. Kh1 {[%eval -12.87] } Qf1+ {[%eval -62.71] } 32. Kh2 {[%eval -10.02] } Qf2+ {[%eval -9.60] } 33. Kh1 {[%eval -9.57] } Qf1+ {[%eval -9.20] } 34. Kh2 {[%eval -8.71] } Qf2+?? {[%eval 0.00] } 35. Kh1?? {[%eval -8.43] } Qf1+?? {[%eval 0.00] } 36. Kh2?? {[%eval -6.95] } Qf2+?? 1/2-1/2
